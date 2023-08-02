@@ -1206,6 +1206,7 @@ width: 15%;
     .d20 p{
         font-size: 30px;
         padding: 0;
+        width: fit-content;
     }
     .d21{
         display: flex;
@@ -1372,13 +1373,13 @@ width: 15%;
         margin-left: 15%;
       }
       .d48{
-        margin-left: 0;
+        margin-left: 15%;
       }
       .d49{
         margin-left: 15%;
       }
       .d50{
-        margin-left: 0;
+        margin-left: 15%;
       }
      
 }
