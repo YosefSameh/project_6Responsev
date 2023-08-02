@@ -1208,6 +1208,13 @@ width: 15%;
         padding: 0;
         width: fit-content;
     }
+     .p30{
+        
+        font-size: 30px;
+        padding: 0;
+        width: fit-content;
+        text-align: center;
+     }
     .d21{
         display: flex;
         flex-direction: column-reverse;
